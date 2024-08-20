@@ -11,6 +11,4 @@ Afterwards, I did an anomaly search using the clustering method (DBSCAN). In the
 
 <img src="https://github.com/churkenberg/primary_data_processing/blob/main/output.png" alt="MasterHead">
 
-
-
-https://www.kaggle.com/datasets/gagandeep16/car-sales
+<a href="https://www.kaggle.com/datasets/gagandeep16/car-sales" target="_blank"><img src="https://img.shields.io/badge/Download%20Dataset-gray?style=for-the-badge&labelWidth=150" target="_blank"></a>
