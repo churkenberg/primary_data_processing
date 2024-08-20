@@ -9,7 +9,7 @@ First, I checked the data for duplicates as well as missing values (null). To ha
 I used deletion of columns that were almost completely missing values and filled in the remaining values using the kNN method. 
 Afterwards, I did an anomaly search using the clustering method (DBSCAN). In the data transformation step, I checked the variable type and fixed the variable type problem
 
-
+<img src="https://github.com/churkenberg/primary_data_processing/blob/main/output.png" alt="MasterHead">
 
 
 
