@@ -1,7 +1,6 @@
 # Primary data processing
 
-I performed data cleaning and transformation, this is a fairly typical task for a data analyst and ML engineer, 
-so I tried to do everything correctly especially for the portfolio.
+I performed data cleaning and transformation, this is a fairly typical task for a data analyst and ML engineer
 
 ## Job Description:
 
